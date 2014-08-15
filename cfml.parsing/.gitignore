@@ -1,4 +1,6 @@
-bin/
-.DS_Store
-/cfml.parsing.jar
+/bin
 /target
+/lib
+/build
+/gUnitEditor
+/ant

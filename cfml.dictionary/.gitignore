@@ -1,4 +1,6 @@
 bin/
 .DS_Store
-/cfml.parsing.jar
 /target
+/bin
+/lib
+/build
